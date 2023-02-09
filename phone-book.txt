@@ -1,9 +1,0 @@
-zayan,shams,14-02-2002,4 kafrabdo street,01281063634,shams@gmail.com
-
-abdou,maryam,25-04-2000,26 mnsha street,01006203307,maryam@hotmail.com
-
-mohamed,youmna,6-11-2001,4 sidibeshr street,01001020300,youmna@yahoo.com
-
-hanna,youstina,5-11-2000,5 sporting street,01114568949,youstina@gmail.com
-
-hany,ingy,3-4-2000,8 smouha street,01234567898,ingy@hotmail.com
